@@ -6,6 +6,12 @@
 
 我的在线简历：[tian-classmate](https://github.com/Tyh2001/tian-classmate)
 
+## 自我介绍
+
+> 2022-04 我的自我介绍
+
+您好，我叫 xxx，今年 xx 岁，毕业于 xxx。我擅长使用 vue 开发，擅长组件封转。我开源组件库 tyh-ui 的作者，目前正在带领两位小伙伴一起做开源项目，希望有机会来贵公司任职，谢谢。
+
 ## 列表
 
 - [2022-03-29](https://github.com/Tyh2001/Interview-record/blob/master/2022-03-29.md)
