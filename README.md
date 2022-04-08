@@ -33,7 +33,7 @@
 
 ## 技巧
 
-- [反问面试官的问题]()
+- [反问面试官的问题](https://github.com/Tyh2001/Interview-record/blob/master/src/skill-1.md)
 
 ## 贡献
 
