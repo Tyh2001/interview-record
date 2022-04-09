@@ -7,6 +7,7 @@
     "instanceof",
     "pnpm",
     "tian",
+    "vant",
     "vuex"
   ]
 }
