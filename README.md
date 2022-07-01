@@ -27,7 +27,7 @@
 
 **2022 年 7 月份面试**
 
-- [2022-06-15](https://github.com/Tyh2001/Interview-record/blob/master/2022-07-01.md)
+- [2022-07-01](https://github.com/Tyh2001/Interview-record/blob/master/2022-07-01.md)
 
 ## 常被问到的
 
