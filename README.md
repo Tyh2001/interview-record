@@ -23,6 +23,7 @@
 
 - [2022-06-13](https://github.com/Tyh2001/Interview-record/blob/master/2022-06-13.md)
 - [2022-06-15](https://github.com/Tyh2001/Interview-record/blob/master/2022-06-15.md)
+- [2022-06-21](https://github.com/Tyh2001/Interview-record/blob/master/2022-06-21.md)
 
 **2022 年 7 月份面试**
 
@@ -47,6 +48,7 @@
 - 您感觉我还有什么需要提升的？
 - 您平时都是如何获取前端最新资讯的呢？
 - 您是如何学习新技术的呢？
+- 比如产品给到一个需求，那么这个需求你感觉不太好实现，或者技术难度比较高，这种你是如何处理的呢？
 
 ## 贡献
 
