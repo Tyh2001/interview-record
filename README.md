@@ -59,3 +59,7 @@
 - vue 响应式原理是什么？
 - 讲一下三次握手和四次挥手
 - https 和 http 有什么区别呢？
+
+## 离职原因
+
+[leave](https://github.com/Tyh2001/Interview-record/blob/master/src/leave.md)
